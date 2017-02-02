@@ -1,0 +1,133 @@
+.trombi_div3,.trombi_div4{
+  width: 13%;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #CDC9C9;
+}
+.trombi_title{
+  text-align: center;
+}
+.trombi_div1{
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: #CDC9C9;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  height: 160px;
+}
+.trombi_pix_alexandre{
+  float: left;
+}
+.trombi_micka{
+  background-color: #CDC9C9;
+  border-radius: 5px;
+  margin-top: 50px;
+  width: 25%;
+  height: 160px;
+  border: 1px solid black;
+  text-align: center;
+}
+.trombi_pix_micka{
+  float: left;
+}
+.trombi_sandrine{
+  border-radius: 5px;
+  background-color: #CDC9C9;
+  margin-left: 37.8%;
+  margin-top: -160px;
+  width: 25%;
+  height: 160px;
+  border: 1px solid black;
+  text-align: center;
+}
+.trombi_pix_sandrine{
+  float: left;
+}
+.trombi_johanne{
+  border-radius: 5px;
+  background-color: #CDC9C9;
+  float: right;
+  margin-top: -160px;
+  width: 25%;
+  height: 160px;
+  border: 1px solid black;
+  text-align: center;
+}
+.trombi_pix_johanne{
+  float: left;
+}
+.trombi_promo1{
+  display: none;
+}
+.trombi_promo2{
+  display: none;
+}
+.trombi_div3,.trombi_div4{
+  font-size: 15px;
+  float: left;
+  height: 360px;
+  margin-left: 130px;
+  margin-bottom: 25px;
+}
+.trombi_promo, .trombi_title{
+  text-align: center;
+}
+.trombi_lienbio{
+  text-decoration: none;
+  color: black;
+}
+.trombi_promo{
+  width: 20%;
+  margin-left: 41.5%;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  border: 2px solid #FF5733;
+  border-radius: 5px;
+  font-family: sans-serif;
+}
+.trombi_body{
+color:black;
+background-color:white;
+background-image:url(http://www.mainconcept.com/uploads/tx_templavoila/codec-sdk_banner_grey.jpg);
+background-attachment:fixed;
+background-repeat:no-repeat;
+background-position:center center;
+-webkit-background-size: cover;
+margin:0;
+}
+.trombi_span{
+  color: #FF5733;
+}
+.trombi_title{
+  font-size: 35px;
+  font-family: sans-serif;
+}
+.trombi_apprentis{
+  width: 98%;
+}
+.trombi_disparait{
+  display: none;
+}
+#trombi_afficher:target .trombi_promo1{
+ display: inline-block;
+}
+#trombi_afficher:target .trombi_disparait{
+  display:inline;
+}
+#trombi_afficher:target .trombi_apparait{
+  display:none;
+}
+.trombi_disparait2{
+  display: none;
+}
+#trombi_afficher2:target .trombi_promo2{
+ display: inline-block;
+}
+#trombi_afficher2:target .trombi_disparait2{
+  display:inline;
+}
+#trombi_afficher2:target .trombi_apparait2{
+  display:none;
+}
