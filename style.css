@@ -73,7 +73,9 @@
 }
 .trombi_promo, .trombi_title{
   text-align: center;
+  color: black;
 }
+
 .trombi_lienbio{
   text-decoration: none;
   color: black;
@@ -107,8 +109,12 @@ margin:0;
 .trombi_apprentis{
   width: 98%;
 }
+.trombi_apparait{
+  text-decoration: none;
+}
 .trombi_disparait{
   display: none;
+  text-decoration: none;
 }
 #trombi_afficher:target .trombi_promo1{
  display: inline-block;
@@ -119,8 +125,12 @@ margin:0;
 #trombi_afficher:target .trombi_apparait{
   display:none;
 }
+.trombi_apparait2{
+  text-decoration: none;
+}
 .trombi_disparait2{
   display: none;
+  text-decoration: none;
 }
 #trombi_afficher2:target .trombi_promo2{
  display: inline-block;
