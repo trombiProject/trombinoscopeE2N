@@ -20,6 +20,12 @@
 .trombi_pix_alexandre{
   float: left;
 }
+.trombi_description_alexandre{
+  padding-left: 0%;
+  padding-right: 15%;
+  height: 160px;
+  text-align: center;
+}
 .trombi_alexandre{
   float: left;
   width: 68%;
@@ -52,7 +58,6 @@
 }
 
 .trombi_description_sandrine{
-    border: 1px solid green;
     height: 160px;
     padding-left: 0%;
     padding-right: 10%;
